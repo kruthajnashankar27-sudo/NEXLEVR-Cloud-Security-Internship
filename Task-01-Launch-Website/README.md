@@ -57,3 +57,40 @@ https://kruthajnashankar27-sudo.github.io/NEXLEVR-Cloud-Security-Internship/Task
 - HTTPS for encrypted browser connections
 - Public website contains no passwords or API secrets
 - Version control through GitHub
+  ## Launching Your First Website in 30 Minutes
+
+### Step 1: Create a GitHub Repository
+Create a free GitHub account and a public repository named NEXLEVR-Cloud-Security-Internship.
+
+### Step 2: Create the Project Folder
+Create a folder named Task-01-Launch-Website.
+
+### Step 3: Build the Website
+Create index.html and write HTML and CSS code for a Cloud Security Portfolio website.
+
+### Step 4: Upload the Files
+Commit index.html and README.md to the main branch.
+
+### Step 5: Enable GitHub Pages
+Go to Settings > Pages.
+Select Deploy from a branch.
+Choose main and /(root), then save.
+
+### Step 6: Verify Deployment
+Open the Actions tab and check that pages build and deployment has a green check mark.
+
+### Step 7: Access the Live Website
+Visit:
+https://kruthajnashankar27-sudo.github.io/NEXLEVR-Cloud-Security-Internship/Task-01-Launch-Website/
+
+### Step 8: Verify HTTPS
+Confirm that the website uses HTTPS.
+
+### Step 9: Capture Evidence
+Save screenshots of the live website and successful deployment.
+
+### Step 10: Document the Project
+Add the live website URL, deployment details, security practices, and screenshots to the GitHub repository.
+
+### Result
+Successfully deployed a static website using GitHub Pages and a free github.io domain.
