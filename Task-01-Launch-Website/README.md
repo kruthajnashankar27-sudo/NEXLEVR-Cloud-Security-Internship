@@ -37,3 +37,23 @@ Will be added after successful deployment.
 - Basic website deployment
 - GitHub repository management
 - Introduction to cloud security
+## Live Website
+
+My Cloud Security Portfolio website has been successfully deployed using GitHub Pages.
+
+Website URL:
+https://kruthajnashankar27-sudo.github.io/NEXLEVR-Cloud-Security-Internship/Task-01-Launch-Website/
+
+## Deployment Details
+
+- Hosting platform: GitHub Pages
+- Repository branch: main
+- Website type: Static HTML and CSS
+- HTTPS: Enabled
+- Deployment status: Successful
+
+## Security Practices
+
+- HTTPS for encrypted browser connections
+- Public website contains no passwords or API secrets
+- Version control through GitHub
