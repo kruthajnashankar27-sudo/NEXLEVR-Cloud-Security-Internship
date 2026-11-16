@@ -106,7 +106,11 @@ The results show that website complexity, JavaScript execution, image optimizati
 These are proposed improvements based on PageSpeed Insights findings. No changes were made to Wikipedia or BBC.
 
 ## Evidence
-Screenshots of PageSpeed Insights reports will be uploaded to this folder.
+
+The complete Google PageSpeed Insights screenshots for all three websites are available in the PDF below.
+
+[View Task 3 PageSpeed Analysis Evidence](Task-03-PageSpeed-Analysis-Evidence.pdf)
 
 ## Project Status
-Analysis completed. GitHub documentation and evidence being finalized.
+
+Completed ✅
