@@ -123,7 +123,7 @@ There is no single hosting solution suitable for every business. Website builder
 The best choice depends on business requirements, budget, technical skills, security needs, and expected growth.
 
 ### 8. Visual Comparison
-![Cloud Hosting Comparison](a_wide_detailed_infographic_on_a_dark_navy_teal_f.png)
+![Cloud Hosting Comparison](cloud-hosting-comparison.png)
 
 ### Project Status
 Completed.
