@@ -48,16 +48,30 @@
       background: #111827;
       color: #94a3b8;
     }
+    .skip-link {
+  position: absolute;
+  top: -60px;
+  left: 10px;
+  padding: 10px 16px;
+  background: #ffffff;
+  color: #0b1220;
+  z-index: 1000;
+}
+
+.skip-link:focus {
+  top: 10px;
+}
   </style>
 </head>
-<body>
+ <body>
+  <a class="skip-link" href="#main-content">Skip to main content</a>
   <header>
     <h1>Cloud Security Portfolio</h1>
     <p>NEXLEVR Cloud Security Internship Project</p>
     <span class="tag">Task 01 - Cloud Website Deployment</span>
   </header>
 
-  <main class="container">
+ <main id="main-content" class="container">
     <section class="card">
       <h2>About This Project</h2>
       <p>
