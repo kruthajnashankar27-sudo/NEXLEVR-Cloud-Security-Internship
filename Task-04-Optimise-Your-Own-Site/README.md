@@ -117,17 +117,23 @@ The report did not demonstrate ten actionable performance problems. The site alr
 
 ## 6. Evidence
 
-Before-and-after Lighthouse screenshots will be added to this folder.
+The PDF below contains the original before-and-after
+Google Lighthouse screenshots, performance metrics,
+and diagnostic findings.
+
+[View Task 4 Lighthouse Evidence](NEXLEVR_Task_04_Before_After_Lighthouse_Evidence.pdf)
 
 ## 7. Conclusion
 
-The website maintained a 100/100 Performance score while improving its SEO score from 90 to 100.
+The website maintained a 100/100 Performance score while
+improving its SEO score from 90 to 100.
 
-A working keyboard skip link was also implemented and manually tested.
+A working keyboard skip link was implemented and tested.
 
-Although the task requests fixes for the top ten performance issues, the existing site did not have ten identified issues. This report documents the genuine changes and measured results without claiming nonexistent fixes.
+The website was already highly optimized, so Lighthouse
+did not identify ten significant performance issues to fix.
 
 ## Project Status
 
-Optimization and retesting completed. Evidence documentation pending.
+Optimization, testing, and evidence documentation completed.
   
